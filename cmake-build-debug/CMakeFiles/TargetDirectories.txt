@@ -1,0 +1,3 @@
+C:/Users/Cristi/Desktop/Facultate/chatabot/chatabot/cmake-build-debug/CMakeFiles/chatabot.dir
+C:/Users/Cristi/Desktop/Facultate/chatabot/chatabot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cristi/Desktop/Facultate/chatabot/chatabot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
